@@ -1,6 +1,6 @@
 /*Compute expressions*/
 
-public class Exercise_01_05 {
+public class Exercise01_05 {
 
     public static void main(String[] args) {
 
