@@ -15,7 +15,7 @@ public class Exercise02_03 {
 
         final double METERS_PER_FOOT = 0.305;
 
-        System.out.print("Enter a valueu for feet: ");
+        System.out.print("Enter a value for feet: ");
 
         double feet = input.nextDouble();
 
